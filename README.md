@@ -11,10 +11,9 @@ Intel(R) Xeon(R) CPU E5-2670 v3 @ 2.30GHz
 
 * Brief file descriptions
 
-cicero.R: Generic running of Cicero for use with clustering procedures.\n
-cistopic.R: Generic running of Cistopic for use with clustering procedures.
-
-cistopic_louvain.R: Generic running of Cistopic with Signac UMAP and Louvain clustering for use with clustering procedures.
+- cicero.R: Generic running of Cicero for use with clustering procedures.
+- cistopic.R: Generic running of Cistopic for use with clustering procedures.
+- cistopic_louvain.R: Generic running of Cistopic with Signac UMAP and Louvain clustering for use with clustering procedures.
 
 cusanovich2018.R: Generic running of Cusanovich2018 for use with clustering procedures.
 run_episcanpy.py: Generic running of EpiScanpy for use with clustering procedures.
