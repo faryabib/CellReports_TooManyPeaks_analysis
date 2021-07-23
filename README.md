@@ -12,7 +12,6 @@ Intel(R) Xeon(R) CPU E5-2670 v3 @ 2.30GHz
 * Brief file descriptions
 
 cicero.R: Generic running of Cicero for use with clustering procedures.
-
 cistopic.R: Generic running of Cistopic for use with clustering procedures.
 
 cistopic_louvain.R: Generic running of Cistopic with Signac UMAP and Louvain clustering for use with clustering procedures.
